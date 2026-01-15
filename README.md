@@ -1,4 +1,6 @@
 # 💰 Calculadora de Orçamento em Tempo Real
+<img width="1208" height="663" alt="calculadora-de-orçamento" src="https://github.com/user-attachments/assets/b39481e9-2425-4503-bb9d-788d100c21af" />
+
 Uma interface interativa e responsiva que permite aos usuários simular orçamentos de serviços em tempo real. Ideal para prestadores de serviço que desejam oferecer transparência e agilidade no fechamento de pacotes.
 
 # 🚀 Funcionalidades
@@ -64,6 +66,9 @@ Interface limpa e intuitiva: Design focado na experiência do usuário (UX) e fa
 Estrutura de pastas padronizada: Organização lógica dos ativos do projeto.
 
 README claro, objetivo e bem documentado: Documentação completa para facilitar o entendimento do projeto por outros desenvolvedores.
+
+# ✒️ Autor/Desenvolvedor
+Marcos Merencio | Desenvolvedor Web (em formação)
 
 # 📄 Licença
 Este projeto é livre para uso educacional e aprendizado.
