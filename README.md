@@ -46,7 +46,7 @@ Para alterar os serviços ou preços, basta modificar os valores no arquivo inde
 # 🚀 Como Executar o Projeto
 Clone o repositório:
 
-git clone https://github.com/merenciomarcos-ux/desafio02-calculadora-de-orcamento.git
+git clone https://github.com/marcosmerencio/missao6-calculadora-de-orcamento.git
 
 Acesse a pasta do projeto.
 
